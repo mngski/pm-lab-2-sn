@@ -17,3 +17,4 @@ Grupa studencka: WEL18DE1S1
 W jaki sposób można określić czas trwania
 opóźnienia zrealizowanego z użyciem pętli?
 
+Z wykorzystaniem funkcji DELAY
